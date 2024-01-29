@@ -28,5 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikandansns&" alt="manikandansns" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manikandan B/Manikandansns/f6085fd2f0beb07230e9c5315c81b2d0ea3dd726/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Manikandansns/Manikandan B/f6085fd2f0beb07230e9c5315c81b2d0ea3dd726/github-user-contribution.svg" alt="snake"></center>
 </p>
