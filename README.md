@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m **MERN STACK DEVELOPER**
 
 - 📫 How to reach me **manikandansns@gmail.com**
 
